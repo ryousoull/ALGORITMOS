@@ -12,7 +12,7 @@
 
 listaNumeros = []
 
-num = int(input(" Digite o numero: "))
+num = int(input(" Digite um numero:  [0 para sair]"))
 
 while (num!=0):
   listaNumeros.append(num)
