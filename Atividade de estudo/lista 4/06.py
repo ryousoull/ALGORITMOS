@@ -1,0 +1,1 @@
+#7. Crie um programa que gere a sequˆencia de Fibonacci at´e o d´ecimo termo usando um loop for.
