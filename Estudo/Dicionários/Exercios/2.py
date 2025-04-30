@@ -8,6 +8,7 @@ dado = {
   'jogador4': rd.randint(1,6)
 }
 
+
 ranking = {}
 
 print('Valores Sorteados')
